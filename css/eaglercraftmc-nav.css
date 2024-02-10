@@ -24,7 +24,7 @@ body div.header {
 body div.header ul.menu {
   display: flex;
   flex-direction: row;
-  gap: 50px;
+  gap: 30px;
 }
 
 body div.header ul.menu li {
