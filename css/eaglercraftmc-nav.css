@@ -16,13 +16,18 @@ body {
     backdrop-filter: blur(15px);
     width: 100%;
     height: 20vh; }
-    body div.header a {
-      text-decoration: none;
-      color: #EFEFEF;
-      font-size: 34px;
-      font-weight: 400;
-      width: 100px;
-      height: 30px;
-      font-family: "Alata", sans-serif; }
-      body div.header a:hover {
-        color: #0047AB; }
+    body div.header ul.menu {
+      display: flex;
+      flex-direction: row;
+      gap: 50px; }
+      body div.header ul.menu li {
+        list-style: none; }
+        body div.header ul.menu li a {
+          text-decoration: none;
+          color: #EFEFEF;
+          font-size: 36px;
+          font-weight: 400;
+          font-family: 'Alata', sans-serif;
+          transition: 0.7s cubic-bezier(0.86, 0, 0.07, 1) }
+          body div.header ul.menu li a:hover {
+            color: #0047AB; }
