@@ -18,12 +18,11 @@ body {
     height: 20vh; }
     body div.header a {
       text-decoration: none;
+      color: #EFEFEF;
       font-size: 34px;
       font-weight: 400;
       width: 100px;
       height: 30px;
       font-family: "Alata", sans-serif; }
-      body div.header a h2 {
-        color: #EFEFEF; }
 
 /*# sourceMappingURL=homepage.674ab1b.css.map */
