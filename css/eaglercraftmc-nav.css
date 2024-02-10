@@ -25,6 +25,8 @@ body div.header ul.menu {
   display: flex;
   flex-direction: row;
   gap: 50px;
+  width: 50%
+  height: 10vh;
 }
 
 body div.header ul.menu li {
