@@ -28,7 +28,7 @@ body {
           font-size: 36px;
           font-weight: 400;
           font-family: 'Alata', sans-serif;
-          transition: 0.3s cubic-bezier(0.86, 0, 0.07, 1); }
+          transition: transform 0.3s cubic-bezier(0.86, 0, 0.07, 1); }
           body div.header ul.menu li a:hover {
             color: #0047AB;
             transform: scale(1.14); }
