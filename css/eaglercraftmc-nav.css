@@ -25,13 +25,11 @@ body div.header ul.menu {
   display: flex;
   flex-direction: row;
   gap: 50px;
-  width: 700px;
-  height: 10vh;
 }
 
 body div.header ul.menu li {
   list-style: none;
-  width: 100px;
+  width: 70px;
   height: 50px;
 }
 
