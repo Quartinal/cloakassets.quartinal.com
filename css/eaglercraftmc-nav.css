@@ -6,6 +6,7 @@
 }
 
 body {
+  background-color: #222222;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -36,8 +37,11 @@ body div.header ul.menu li {
 body div.header ul.menu li a {
   display: block;
   text-align: center;
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  background-clip: text;
+  -webkit-background-clip: text;
   text-decoration: none;
-  color: #EFEFEF;
+  -webkit-text-fill-color: transparent;
   font-size: 32px;
   font-weight: 400;
   font-family: 'Alata', sans-serif;
