@@ -35,6 +35,7 @@ body div.header ul.menu li {
 
 body div.header ul.menu li a {
   display: block;
+  text-align: center;
   text-decoration: none;
   color: #EFEFEF;
   font-size: 32px;
