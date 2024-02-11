@@ -29,6 +29,8 @@ body div.header ul.menu {
 
 body div.header ul.menu li {
   list-style: none;
+  width: 100px;
+  height: 30px;
 }
 
 body div.header ul.menu li a {
