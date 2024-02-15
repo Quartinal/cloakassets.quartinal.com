@@ -54,3 +54,7 @@ body div.header ul.menu li a:hover {
   color: #0047AB;
   transform: scale(1.14);
 }
+
+body div.header img:hover {
+  cursor: pointer;
+}
