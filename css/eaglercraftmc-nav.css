@@ -55,6 +55,11 @@ body div.header ul.menu li a:hover {
   transform: scale(1.14);
 }
 
-body div.header img:hover {
+body div.header ul.menu li img[src="https://cloakassets.quartinal.com/eaglesmp-logo-min.png"] {
+  width: 100px;
+  height: 100px;
+}
+
+body div.header img.bulb:hover {
   cursor: pointer;
 }
